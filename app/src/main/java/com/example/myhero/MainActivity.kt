@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             MyHeroTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android 11 for Us",
+                        name = "Android 11 for us SA Citizens",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
